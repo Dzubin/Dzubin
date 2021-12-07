@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dzubin, located in Calgary Canada
+- 👋 Hi, I’m Thomas Dzubin, located in Calgary Canada
 - 👀 I’m interested in FPGA programming and old vintage computer (eg: before 1995) programming.
 - 🌱 I’m currently learning Verilog ...
 - 💞️ I’m looking to collaborate on simple FPGA stuff...
-- 📫 How to reach me: Google me
+- 📫 How to reach me: Google me... you can probably figure it out 
